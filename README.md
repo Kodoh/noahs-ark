@@ -21,7 +21,7 @@ I have created a main file here to test what you have created (namely invoking a
 
 ## UML
 
-I have just moved your document (based on what you have stated) and put it into an MD (markdown) file as this is much more of a norm (not everyone has a mac to use .docx I guess). I have also used AI to generate a UML from your notes so appologies if it looks a bit over the top.
+I have just moved your document (based on what you have stated) and put it into an MD (markdown) file called ```CLASS_UML.md``` as this is much more of a norm (not everyone has a mac to use .docx I guess). I have also used AI to generate a UML from your notes so appologies if it looks a bit over the top.
 ## Compile (If Needed)
 
 If you change any code, recompile first:
