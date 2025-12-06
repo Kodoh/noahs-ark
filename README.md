@@ -1,6 +1,6 @@
 # Noah's Ark
 
-A Java program with 30 different animals organized by type (mammals, non-mammals, aquatic, flying).
+
 
 ## Clone the Repository
 
@@ -17,8 +17,11 @@ From the `noahs-ark` folder, open a terminal and type:
 java -cp . NoahsArk.NoahsArkMain
 ```
 
-That's it! The program will print out all the animals and what sounds they make.
+I have created a main file here to test what you have created (namely invoking all the objects).
 
+## UML
+
+I have just moved your document (based on what you have stated) and put it into an MD (markdown) file as this is much more of a norm (not everyone has a mac to use .docx I guess). I have also used AI to generate a UML from your notes so appologies if it looks a bit over the top.
 ## Compile (If Needed)
 
 If you change any code, recompile first:
@@ -26,5 +29,5 @@ If you change any code, recompile first:
 ```bash
 javac *.java Concrete/*.java
 ```
-
+(basically saying compile all java files in the root dir and then all in the concrete dir). 
 Then run it again with the command above.
