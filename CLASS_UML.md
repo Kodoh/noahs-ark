@@ -1,5 +1,8 @@
 # Noah's Ark - Class UML Structure
 
+I assume this is what you have been meaning on doing so I got AI to write it up for you, however if this was not what you were intending **please try and do it yourself**!
+
+
 ## Class Hierarchy
 
 ```
