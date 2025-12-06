@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# System files
+Thumbs.db
